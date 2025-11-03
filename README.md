@@ -30,6 +30,13 @@ These issues made the homepage feel a bit heavy and less intuitive for first-tim
 | **Visual Hierarchy** | Flat color scheme | Used subtle grays and accent red to highlight key sections |
 
 ---
+### 🖼️ Screenshots  
+
+**Before Redesign:**  
+![Before](./Generated Design.png)
+
+**After Redesign:**  
+![After](./Redesign_Zomato.png)
 
 ---
 
